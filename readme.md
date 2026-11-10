@@ -19,6 +19,9 @@ L.L.M Academy 대전 1기에서 작업한 프로젝트입니다. 폴더마다 �
   <a href="베버%20제안서/"><img src="assets/cards/wine1.png" alt="크리스마스 와인 제안서" width="49%"></a>
   <a href="베버%20제안서%202/"><img src="assets/cards/wine2.png" alt="와인 제안서 2차" width="49%"></a>
 </p>
+<p align="center">
+  <a href="식품확인/"><img src="assets/cards/foodcheck.png" alt="건강기능식품 조회 서비스" width="49%"></a>
+</p>
 <!-- PROJECTS:END -->
 
 <br>
